@@ -1,0 +1,59 @@
+body{
+ font-family: Helvetica;
+
+}
+
+h1 {
+ color: #033c2d;
+ text-align: center;
+}
+
+h2{
+ color: #652412;
+ text-align: center;
+}
+
+h3{
+ color: #6e5a11;
+ text-align: center;
+}
+
+h4{
+ color: #6e5a11;
+ margin-left: 20px;
+}
+
+h5{
+ color: #6e5a11;
+
+}
+
+h6{
+ color: #6e5a11;
+
+}
+
+p{
+
+ color: #424242;
+}
+
+ol{
+ color: #652412;
+}
+
+ul {
+ color: #033c2d;
+
+}
+
+em{text-decoration: underline;}
+
+img{
+ width: 33%;
+
+}
+
+.header_image{
+ width: 100%;
+}
