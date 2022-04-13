@@ -47,7 +47,9 @@ ul {
 
 }
 
-em{text-decoration: underline;}
+em{font-weight: bold;
+}
+
 
 img{
  width: 33%;
