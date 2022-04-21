@@ -95,7 +95,7 @@ else if (userPrompt.toUpperCase()==="NO") {
     // if they don't, then we'll ask them the next question
     else {
 
-        currQuestion = "Would you like pizza or pasta?";
+        currQuestion = "Would you like pizza & pasta?";
         userPrompt = prompt(currQuestion, "Yes or No")
         yesOrNo (userPrompt);
 
