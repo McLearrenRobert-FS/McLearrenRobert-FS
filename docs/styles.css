@@ -1,5 +1,5 @@
 body{
- font-family: Helvetica;
+ font-family: Helvetica, sans-serif;
 
 }
 
@@ -9,12 +9,15 @@ h1 {
 }
 
 h2{
- color: #652412;
+ color: #ffffff;
  text-align: center;
+ text-align-all: center;
+ text-shadow: 2px 2px 2px #363636;
 }
 
 h3{
  color: #6e5a11;
+
  text-align: center;
 }
 
@@ -50,10 +53,37 @@ ul {
 em{font-weight: bold;
 }
 
+.middle_image {
+ width: 32%;
+transition: all .2s ease-in-out;
+}
+
+.middle_image:hover{
+ transform: scale(1.12);
+ border: 2px solid #000000;
+
+
+}
+
+.divhistory {
+background-image: url("images/sanford_div_background2.jpg");
+ padding-top: 50px;
+ height: 100px;
+
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
 
 img{
- width: 33%;
 
+
+}
+
+.image_right{
+ float: right;
 }
 
 .header_image{
