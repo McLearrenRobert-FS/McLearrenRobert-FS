@@ -112,11 +112,8 @@ border-width: 3px;
 }
 
 #desc_div{
- width: 780px;
+ width: 800px;
  align-self: flex-start;
-border: #363636;
 
- padding: 10px;
- background-color: #e3e3e3;
 
 }
