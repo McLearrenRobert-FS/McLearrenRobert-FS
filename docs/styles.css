@@ -18,7 +18,7 @@ h2{
 h3{
  color: #6e5a11;
 
- text-align: center;
+ text-align: left;
 }
 
 h4{
@@ -88,4 +88,35 @@ img{
 
 .header_image{
  width: 100%;
+}
+
+.quest_button {
+ background-color: #701111;
+ border: white;
+ border: solid;
+ color: white;
+ border-width: 3px;
+ border-color: white;
+ padding: 15px 32px;
+ text-align: center;
+  font-size: 16px;
+
+}
+
+.quest_button:hover {
+ background-color: #5a0707;
+ border: black;
+ border: solid;
+border-width: 3px;
+ border-color: black;
+}
+
+#desc_div{
+ width: 780px;
+ align-self: flex-start;
+border: #363636;
+
+ padding: 10px;
+ background-color: #e3e3e3;
+
 }
